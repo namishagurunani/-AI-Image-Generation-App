@@ -1,3 +1,5 @@
+## Hosted Link-[click here](https://ai-image-generation-app-one.vercel.app/)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
